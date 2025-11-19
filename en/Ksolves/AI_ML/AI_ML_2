@@ -1,0 +1,601 @@
+<main>
+<div class="predictive_analysis_page">
+   <section class="ks-pa-banner-section position-relative">
+      <div class="container py-4 py-md-5">
+         <div class="row align-items-center">
+            <div class="col-md-6 text-white text-center text-md-start">
+               <h1 class="f-w-600 font-40 mb-3">Discover the Future of Data-Driven Decisions with Predictive Analytics
+                  Services
+               </h1>
+               <p class="f-w-400 font-16">Unlock valuable insights and gain a competitive edge with the transformative
+                  capabilities of Predictive Analytics. At Ksolves, we understand the potential of data-driven insights
+                  to transform your business. Want to harness the power of data-driven foresight for smarter
+                  decision-making?
+               </p>
+               <div class="">
+                  <button onclick="openmodal(this.id)" id="contact_us_today" class="btn rounded-1 f-w-500 overflow-hidden btn-primary text-white btn-lg px-4 d-inline-flex align-items-center mt-md-4">
+                     Contact
+                     Us Today
+                     <svg class="ms-2 arrow-icon" width="16" height="10" viewBox="0 0 16 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M1 5L15 5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M11 1L15 5L11 9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                     </svg>
+                  </button>
+               </div>
+            </div>
+            <div class="col-md-6 text-md-end text-center mt-md-0 mt-4"><img alt="ksolves banner side" width="693" height="466" decoding="async" data-nimg="1" class="img-fluid h-sm-auto entered lazyloaded" style="color:transparent" src="/wp-content/uploads/2024/01/predictive-analysis-sider.webp" data-lazy-src="/wp-content/uploads/2024/01/predictive-analysis-sider.webp" data-ll-status="loaded"><noscript><img alt="ksolves banner side" loading="lazy"
+               width="693" height="466" decoding="async" data-nimg="1" class="img-fluid h-sm-auto"
+               style="color:transparent" src="/wp-content/uploads/2024/01/predictive-analysis-sider.webp" /></noscript>
+            </div>
+         </div>
+      </div>
+   </section>
+
+    <!-- Client Logo section Start -->
+          <!-- Client Logo section End -->
+
+   <section class="py-lg-5 py-4 bg-light mt-lg-5 mt-2">
+      <div class="container ">
+         <div class="text-center">
+            <h2 class="mb-3 f-w-600 font-40 font-sm-32 color-1C1C1C">What Is Predictive Analytics?</h2>
+            <p class="mb-4 pb-2 f-w-400 font-18 color-444444">Predictive Analytics is a powerful method that utilizes
+               current and historical data to make predictions about future trends and<br class="d-none d-xl-block">events. By analyzing relationships among various factors, it assesses
+               risk, assigns scores, and empowers organizations <br class="d-none d-xl-block">to be proactive,
+               forward-looking, and make informed decisions based on data.
+            </p>
+            <h2 class="f-w-600 font-30 font-sm-32 color-1C1C1C mb-5">Types of Predictive Analytics Models</h2>
+         </div>
+         <div class="box-area mb-md-4">
+            <div class="d-md-flex justify-content-between">
+               <div>
+                  <p class="color-444444 f-w-600 font-24 mb-4 text-center">Supervised</p>
+                  <div class="d-flex">
+                     <div class="me-4">
+                        <div class="d-flex align-items-center flex-wrap mb-1">
+                           <div class=""><img alt="graph image" width="300" height="308" decoding="async" data-nimg="1" class="object-xl-cover graph-img entered lazyloaded" style="color:transparent" src="/wp-content/uploads/2024/01/supervised-graph-1.webp" data-lazy-src="/wp-content/uploads/2024/01/supervised-graph-1.webp" data-ll-status="loaded"><noscript><img alt="graph image" loading="lazy" width="300" height="308" decoding="async"
+                              data-nimg="1" class="object-xl-cover graph-img" style="color:transparent"
+                              src="/wp-content/uploads/2024/01/supervised-graph-1.webp" /></noscript></div>
+                        </div>
+                        <p class="f-w-600 font-16 color-1C1C1C mb-0 text-center">Classification Models</p>
+                     </div>
+                     <div>
+                        <div class="d-flex align-items-center flex-wrap mb-1">
+                           <div class=""><img alt="graph image" width="300" height="308" decoding="async" data-nimg="1" class="object-xl-cover graph-img entered lazyloaded" style="color:transparent" src="/wp-content/uploads/2024/01/supervised-graph-2.webp" data-lazy-src="/wp-content/uploads/2024/01/supervised-graph-2.webp" data-ll-status="loaded"><noscript><img alt="graph image" loading="lazy" width="300" height="308" decoding="async"
+                              data-nimg="1" class="object-xl-cover graph-img" style="color:transparent"
+                              src="/wp-content/uploads/2024/01/supervised-graph-2.webp" /></noscript></div>
+                        </div>
+                        <p class="f-w-600 font-16 color-1C1C1C mb-0 text-center">Regression Models</p>
+                     </div>
+                  </div>
+               </div>
+               <div>
+                  <p class="color-444444 f-w-600 font-24 mb-4 text-center mt-md-0 mt-5">Unsupervised</p>
+                  <div class="ms-xl-0 ms-4">
+                     <div class="d-flex align-items-center flex-wrap mb-1">
+                        <div class=""><img alt="graph image" width="578" height="308" decoding="async" data-nimg="1" class="object-xl-cover graph-img entered lazyloaded" style="color:transparent" src="/wp-content/uploads/2024/01/supervised-graph-3.webp" data-lazy-src="/wp-content/uploads/2024/01/supervised-graph-3.webp" data-ll-status="loaded"><noscript><img alt="graph image" loading="lazy" width="578" height="308" decoding="async"
+                           data-nimg="1" class="object-xl-cover graph-img" style="color:transparent"
+                           src="/wp-content/uploads/2024/01/supervised-graph-3.webp" /></noscript></div>
+                     </div>
+                     <p class="f-w-600 font-16 color-1C1C1C mb-0 text-center">Clusterings</p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </section>
+   <section class="ks-java-experties py-lg-5 py-4">
+      <div class="container px-0">
+         <div class="text-center">
+            <h2 class="mb-4 f-w-600 font-40 font-sm-32 color-1C1C1C">
+               Our Predictive Analytics Services<!-- --> 
+            </h2>
+            <p class="mb-5 f-w-500 font-18 color-444444">At Ksolves, we have specialization in assisting our clients
+               to acquire the most suitable solutions and provide tailored tools that<br class="d-none d-xl-block">precisely address their unique business needs.
+            </p>
+         </div>
+         <div class="row m-auto justify-content-center">
+            <div class="col-md-4">
+               <div class="java-experties-large-card d-flex align-items-center flex-column justify-content-center px-lg-5 px-3 text-center py-xl-0 py-4 mb-md-0 mb-3">
+                  <div><img alt="img1" width="80" height="80" decoding="async" data-nimg="1" class="img-fluid h-sm-auto entered lazyloaded" style="color:transparent" src="/wp-content/uploads/2024/01/service-1.svg" data-lazy-src="/wp-content/uploads/2024/01/service-1.svg" data-ll-status="loaded"><noscript><img alt="img1" loading="lazy" width="80" height="80" decoding="async" data-nimg="1"
+                     class="img-fluid h-sm-auto" style="color:transparent"
+                     src="/wp-content/uploads/2024/01/service-1.svg" /></noscript></div>
+                  <h3 class="mb-3 f-w-600 font-20 color-1C1C1C mt-4">Predictive Analytics <br class="d-none d-md-block">Consulting</h3>
+                  <p class="f-w-400 font-14 color-444444 l-h-20 mb-0">Discover the huge potential of your Machine
+                     Learning product with our expert Predictive Analytics consulting services. Our expert team will
+                     collaborate closely with you to identify valuable insights and enhance your ML solution.
+                  </p>
+               </div>
+            </div>
+            <div class="col-md-4">
+               <div class="java-experties-large-card d-flex align-items-center flex-column justify-content-center px-lg-5 px-3 text-center py-xl-0 py-4 mb-md-0 mb-3">
+                  <div><img alt="img2" width="80" height="80" decoding="async" data-nimg="1" class="img-fluid h-sm-auto entered lazyloaded" style="color:transparent" src="/wp-content/uploads/2024/01/service-2.svg" data-lazy-src="/wp-content/uploads/2024/01/service-2.svg" data-ll-status="loaded"><noscript><img alt="img2" loading="lazy" width="80" height="80" decoding="async" data-nimg="1"
+                     class="img-fluid h-sm-auto" style="color:transparent"
+                     src="/wp-content/uploads/2024/01/service-2.svg" /></noscript></div>
+                  <h3 class="mb-3 f-w-600 font-20 color-1C1C1C mt-4">Predictive Analytics Software<br class="d-none d-md-block"> Development</h3>
+                  <p class="f-w-400 font-14 color-444444 l-h-20 mb-0">At Ksolves, we specialize in developing advanced
+                     custom solutions for Predictive Analytics Software Development. Our proprietary model streamlines
+                     the process to deliver innovative and cost-effective solutions.
+                  </p>
+               </div>
+            </div>
+            <div class="col-md-4">
+               <div class="java-experties-large-card d-flex align-items-center flex-column justify-content-center px-lg-5 px-3 text-center py-xl-0 py-4 mb-md-0 mb-3">
+                  <div><img alt="img1" width="80" height="80" decoding="async" data-nimg="1" class="img-fluid h-sm-auto entered lazyloaded" style="color:transparent" src="/wp-content/uploads/2024/01/service-3.svg" data-lazy-src="/wp-content/uploads/2024/01/service-3.svg" data-ll-status="loaded"><noscript><img alt="img1" loading="lazy" width="80" height="80" decoding="async" data-nimg="1"
+                     class="img-fluid h-sm-auto" style="color:transparent"
+                     src="/wp-content/uploads/2024/01/service-3.svg" /></noscript></div>
+                  <h3 class="mb-3 f-w-600 font-20 color-1C1C1C mt-4">Data Analysis and <br class="d-none d-md-block">Preprocessing</h3>
+                  <p class="f-w-400 font-14 color-444444 l-h-20 mb-0">Our experts have experience working with diverse
+                     data sources including structured, unstructured, textual, and time-series data. Whatever your data
+                     type or specific needs, our expert team can develop customized solutions to meet your requirements.
+                  </p>
+               </div>
+            </div>
+         </div>
+      </div>
+   </section>
+   <section class="py-lg-5 py-2 req-bg">
+      <div class="container px-0">
+         <div class="text-center">
+            <p class="mb-5 f-w-600 font-40 font-sm-32 color-1C1C1C">
+               Stay Ahead of the Competition and Make Informed
+               <br class="d-none d-xl-block">Decisions with Our Powerful Predictive Analytics Solutions<!-- -->
+            </p>
+            <div class="">
+               <button onclick="openmodal(this.id)" id="lets_connect" class="btn rounded-1 f-w-500 overflow-hidden btn-primary text-white btn-lg px-4 d-inline-flex align-items-center">
+                  Let's Connect
+                  <svg class="ms-2 arrow-icon" width="16" height="10" viewBox="0 0 16 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+                     <path d="M1 5L15 5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                     <path d="M11 1L15 5L11 9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                  </svg>
+               </button>
+            </div>
+         </div>
+      </div>
+   </section>
+   <section class="ks-java-services py-lg-5 py-4 bg-light">
+      <div class="container px-0">
+         <div class="text-center">
+            <h2 class="mb-lg-5 mb-4 f-w-600 font-40 font-sm-32 color-1C1C1C">Benefits Of Our Predictive Analytics <br class="d-none d-lg-block">Solutions For Your Business</h2>
+         </div>
+         <div class="row px-xl-4 m-auto">
+            <div class="col-lg-4 col-md-6 mb-4">
+               <div class="ks-whychoose-card d-flex align-items-center">
+                  <div class="col-3"><img alt="img1" width="80" height="80" decoding="async" data-nimg="1" class="img-fluid h-sm-auto" style="color:transparent" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E" data-lazy-src="/wp-content/uploads/2024/01/solution-1.svg"><noscript><img alt="img1" loading="lazy" width="80" height="80" decoding="async"
+                     data-nimg="1" class="img-fluid h-sm-auto" style="color:transparent"
+                     src="/wp-content/uploads/2024/01/solution-1.svg" /></noscript></div>
+                  <div>
+                     <div class="font-20 f-w-600 color-444444 mb-2">Enhanced Decision-Making</div>
+                     <p class="font-14 f-w-400 color-444444 mb-0">Gain deeper insights into customer behavior,
+                        preferences, and needs for targeted marketing and personalized experiences.
+                     </p>
+                  </div>
+               </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-4">
+               <div class="ks-whychoose-card d-flex align-items-center">
+                  <div class="col-3"><img alt="img1" width="80" height="80" decoding="async" data-nimg="1" class="img-fluid h-sm-auto" style="color:transparent" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E" data-lazy-src="/wp-content/uploads/2024/01/solution-2.svg"><noscript><img alt="img1" loading="lazy" width="80" height="80" decoding="async"
+                     data-nimg="1" class="img-fluid h-sm-auto" style="color:transparent"
+                     src="/wp-content/uploads/2024/01/solution-2.svg" /></noscript></div>
+                  <div>
+                     <div class="font-20 f-w-600 color-444444 mb-2">
+                        Improved Customer Understanding<!-- --> 
+                     </div>
+                     <p class="font-14 f-w-400 color-444444 mb-0">Gain deeper insights into customer behavior,
+                        preferences, and needs for targeted marketing and personalized experiences.
+                     </p>
+                  </div>
+               </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-4">
+               <div class="ks-whychoose-card d-flex align-items-center">
+                  <div class="col-3"><img alt="img1" width="80" height="80" decoding="async" data-nimg="1" class="img-fluid h-sm-auto" style="color:transparent" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E" data-lazy-src="/wp-content/uploads/2024/01/solution-3.svg"><noscript><img alt="img1" loading="lazy" width="80" height="80" decoding="async"
+                     data-nimg="1" class="img-fluid h-sm-auto" style="color:transparent"
+                     src="/wp-content/uploads/2024/01/solution-3.svg" /></noscript></div>
+                  <div>
+                     <div class="font-20 f-w-600 color-444444 mb-2">Optimize Operations</div>
+                     <p class="font-14 f-w-400 color-444444 mb-0">Streamlining processes ensures efficient resource
+                        allocation and enhances productivity across your organization
+                     </p>
+                  </div>
+               </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-4">
+               <div class="ks-whychoose-card d-flex align-items-center">
+                  <div class="col-3"><img alt="img1" width="80" height="80" decoding="async" data-nimg="1" class="img-fluid h-sm-auto" style="color:transparent" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E" data-lazy-src="/wp-content/uploads/2024/01/solution-4.svg"><noscript><img alt="img1" loading="lazy" width="80" height="80" decoding="async"
+                     data-nimg="1" class="img-fluid h-sm-auto" style="color:transparent"
+                     src="/wp-content/uploads/2024/01/solution-4.svg" /></noscript></div>
+                  <div>
+                     <div class="font-20 f-w-600 color-444444 mb-2">Predictive Maintenance</div>
+                     <p class="font-14 f-w-400 color-444444 mb-0">Reduce downtime and maintenance costs by predicting
+                        equipment failures before they occur.
+                     </p>
+                  </div>
+               </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-4">
+               <div class="ks-whychoose-card d-flex align-items-center">
+                  <div class="col-3"><img alt="img1" width="80" height="80" decoding="async" data-nimg="1" class="img-fluid h-sm-auto" style="color:transparent" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E" data-lazy-src="/wp-content/uploads/2024/01/solution-5.svg"><noscript><img alt="img1" loading="lazy" width="80" height="80" decoding="async"
+                     data-nimg="1" class="img-fluid h-sm-auto" style="color:transparent"
+                     src="/wp-content/uploads/2024/01/solution-5.svg" /></noscript></div>
+                  <div>
+                     <div class="font-20 f-w-600 color-444444 mb-2">Financial Insights</div>
+                     <p class="font-14 f-w-400 color-444444 mb-0">Get valuable insights into financial patterns that aid
+                        in budgeting and investment decisions.
+                     </p>
+                  </div>
+               </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-4">
+               <div class="ks-whychoose-card d-flex align-items-center">
+                  <div class="col-3"><img alt="img1" width="80" height="80" decoding="async" data-nimg="1" class="img-fluid h-sm-auto" style="color:transparent" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E" data-lazy-src="/wp-content/uploads/2024/01/solution-6.svg"><noscript><img alt="img1" loading="lazy" width="80" height="80" decoding="async"
+                     data-nimg="1" class="img-fluid h-sm-auto" style="color:transparent"
+                     src="/wp-content/uploads/2024/01/solution-6.svg" /></noscript></div>
+                  <div>
+                     <div class="font-20 f-w-600 color-444444 mb-2">
+                        Predictive Sales<!-- --> 
+                     </div>
+                     <p class="font-14 f-w-400 color-444444 mb-0">Forecast future sales accurately by ensuring better
+                        resource planning and sales strategies.
+                     </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </section>
+   <section class="ks-java-experties py-lg-5 py-2">
+      <div class="container px-xl-5">
+         <div class="text-center">
+            <h2 class="mb-5 f-w-60px-40 font-40 font-sm-32 color-1C1C1C">
+               Why Choose Ksolves for Predictive Analytics
+               Services?<!-- --> 
+            </h2>
+         </div>
+         <div class="row px-xl-4">
+            <div class="col-lg-4 col-md-6 mb-4">
+               <div class="ks-whychoose-card h-128 d-flex align-items-center">
+                  <div class="col-3"><img alt="img1" width="80" height="80" decoding="async" data-nimg="1" class="img-fluid h-sm-auto" style="color:transparent" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E" data-lazy-src="/wp-content/uploads/2024/01/service-p1.svg"><noscript><img alt="img1" loading="lazy" width="80" height="80" decoding="async"
+                     data-nimg="1" class="img-fluid h-sm-auto" style="color:transparent"
+                     src="/wp-content/uploads/2024/01/service-p1.svg" /></noscript></div>
+                  <div class="font-18 f-w-500 color-1C1C1C ms-2">
+                     Experienced Professionals<!-- --> 
+                  </div>
+               </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-4">
+               <div class="ks-whychoose-card h-128 d-flex align-items-center">
+                  <div class="col-3"><img alt="img1" width="80" height="80" decoding="async" data-nimg="1" class="img-fluid h-sm-auto" style="color:transparent" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E" data-lazy-src="/wp-content/uploads/2024/01/service-p2.svg"><noscript><img alt="img1" loading="lazy" width="80" height="80" decoding="async"
+                     data-nimg="1" class="img-fluid h-sm-auto" style="color:transparent"
+                     src="/wp-content/uploads/2024/01/service-p2.svg" /></noscript></div>
+                  <div class="font-18 f-w-500 color-1C1C1C ms-2">
+                     Customized Solutions<!-- --> 
+                  </div>
+               </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-4">
+               <div class="ks-whychoose-card h-128 d-flex align-items-center">
+                  <div class="col-3"><img alt="img1" width="80" height="80" decoding="async" data-nimg="1" class="img-fluid h-sm-auto" style="color:transparent" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E" data-lazy-src="/wp-content/uploads/2024/01/service-p3.svg"><noscript><img alt="img1" loading="lazy" width="80" height="80" decoding="async"
+                     data-nimg="1" class="img-fluid h-sm-auto" style="color:transparent"
+                     src="/wp-content/uploads/2024/01/service-p3.svg" /></noscript></div>
+                  <div class="font-18 f-w-500 color-1C1C1C ms-2">
+                     12+ Years of Experience<!-- --> 
+                  </div>
+               </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-4">
+               <div class="ks-whychoose-card h-128 d-flex align-items-center">
+                  <div class="col-3"><img alt="img1" width="80" height="80" decoding="async" data-nimg="1" class="img-fluid h-sm-auto" style="color:transparent" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E" data-lazy-src="/wp-content/uploads/2024/01/service-p4-1.svg"><noscript><img alt="img1" loading="lazy" width="80" height="80" decoding="async"
+                     data-nimg="1" class="img-fluid h-sm-auto" style="color:transparent"
+                     src="/wp-content/uploads/2024/01/service-p4-1.svg" /></noscript></div>
+                  <div class="font-18 f-w-500 color-1C1C1C ms-2">Proven Track Record</div>
+               </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-4">
+               <div class="ks-whychoose-card h-128 d-flex align-items-center">
+                  <div class="col-3"><img alt="img1" width="80" height="80" decoding="async" data-nimg="1" class="img-fluid h-sm-auto" style="color:transparent" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E" data-lazy-src="/wp-content/uploads/2024/01/service-p5.svg"><noscript><img alt="img1" loading="lazy" width="80" height="80" decoding="async"
+                     data-nimg="1" class="img-fluid h-sm-auto" style="color:transparent"
+                     src="/wp-content/uploads/2024/01/service-p5.svg" /></noscript></div>
+                  <div class="font-18 f-w-500 color-1C1C1C ms-2">Client-Centric Approach</div>
+               </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-4">
+               <div class="ks-whychoose-card h-128 d-flex align-items-center">
+                  <div class="col-3"><img alt="img1" width="80" height="80" decoding="async" data-nimg="1" class="img-fluid h-sm-auto" style="color:transparent" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E" data-lazy-src="/wp-content/uploads/2024/01/service-p6.svg"><noscript><img alt="img1" loading="lazy" width="80" height="80" decoding="async"
+                     data-nimg="1" class="img-fluid h-sm-auto" style="color:transparent"
+                     src="/wp-content/uploads/2024/01/service-p6.svg" /></noscript></div>
+                  <div class="font-18 f-w-500 color-1C1C1C ms-2">Scalable Results</div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </section>
+      
+   <section class="py-4 py-md-5 my-3 mt-lg-1 ks-salesforce-crm ks-looking-for-section catid_454" id="trending_section"><div class="container trending-blog"><div class="ks-header-panel text-center mb-4 mb-md-5"><h2 class="f-w-600 pb-4 font-40 color-1C1C1C">Our Trending Blogs</h2><div class="f-w-400 font-18 color-444444">Explore our blogs for the latest trends and innovations to empower your business's future.</div></div><div class="row justify-content-center"><div class="col-lg-4 col-md-6 mb-lg-0 mb-4"><div class="new-card-design "><img alt="Top Computer Vision Consulting Mistakes That Can Sink Your Project" width="383" height="auto" class="w-100" border-radius="0" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20383%200'%3E%3C/svg%3E" data-lazy-src="https://www.ksolves.com/wp-content/uploads/2025/11/Computer-Vision-Consulting-Mistakes-to-Avoid.jpg"><noscript><img alt="Top Computer Vision Consulting Mistakes That Can Sink Your Project" loading="lazy" width="383" height="auto" class="w-100" border-radius="0" src="https://www.ksolves.com/wp-content/uploads/2025/11/Computer-Vision-Consulting-Mistakes-to-Avoid.jpg" /></noscript><div><h3 class="my-2 font-24 f-w-600 color-1C1C1C l-h-35 m-h-70 case-study-title " title="Top Computer Vision Consulting Mistakes That Can Sink Your Project">Top Computer Vision Consulting Mistakes That Can Sink Your Project</h3><span class="case-study-para"><p> Computer vision is reshaping industries by enabling machines to interpret and act on visual data. From automated quality inspection to facial recognition, its potential is vast, but so are the…[…] </p></span><div class="btn-read-more mt-0"><a target="_blank" href="/blog/artificial-intelligence/computer-vision-consulting-mistakes-to-avoid"><span class="f-w-500 font-16 color-E13D4B mt-4 p-0 box-shadow-none outline-none">Read More <svg class="ms-2 arrow-icon" width="16" height="10" viewBox="0 0 16 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 5L15 5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path><path d="M11 1L15 5L11 9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg></span></a></div></div></div></div><div class="col-lg-4 col-md-6 mb-lg-0 mb-4"><div class="new-card-design "><img alt="9 Enterprise-Grade Generative AI Applications Driving Business Innovation" width="383" height="auto" class="w-100" border-radius="0" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20383%200'%3E%3C/svg%3E" data-lazy-src="https://www.ksolves.com/wp-content/uploads/2025/11/Top-9-Enterprise-Grade-Generative-AI-Applications.png"><noscript><img alt="9 Enterprise-Grade Generative AI Applications Driving Business Innovation" loading="lazy" width="383" height="auto" class="w-100" border-radius="0" src="https://www.ksolves.com/wp-content/uploads/2025/11/Top-9-Enterprise-Grade-Generative-AI-Applications.png" /></noscript><div><h3 class="my-2 font-24 f-w-600 color-1C1C1C l-h-35 m-h-70 case-study-title " title="9 Enterprise-Grade Generative AI Applications Driving Business Innovation">9 Enterprise-Grade Generative AI Applications Driving Business Innovation</h3><span class="case-study-para"><p> The rise of generative AI has transformed the technology and business landscape, pushing boundaries far beyond what was previously imagined. While ChatGPT, developed by OpenAI, has gained massive attention for…[…] </p></span><div class="btn-read-more mt-0"><a target="_blank" href="/blog/artificial-intelligence/enterprise-grade-gen-ai-apps"><span class="f-w-500 font-16 color-E13D4B mt-4 p-0 box-shadow-none outline-none">Read More <svg class="ms-2 arrow-icon" width="16" height="10" viewBox="0 0 16 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 5L15 5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path><path d="M11 1L15 5L11 9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg></span></a></div></div></div></div><div class="col-lg-4 col-md-6 mb-lg-0 mb-4"><div class="new-card-design "><img alt="How Cursor AI is Revolutionizing Odoo Test Case Generation at Ksolves" width="383" height="auto" class="w-100" border-radius="0" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20383%200'%3E%3C/svg%3E" data-lazy-src="https://www.ksolves.com/wp-content/uploads/2025/10/How-Cursor-AI-is-Revolutionizing-Odoo-Test-Case-Generation-at-Ksolves.jpg"><noscript><img alt="How Cursor AI is Revolutionizing Odoo Test Case Generation at Ksolves" loading="lazy" width="383" height="auto" class="w-100" border-radius="0" src="https://www.ksolves.com/wp-content/uploads/2025/10/How-Cursor-AI-is-Revolutionizing-Odoo-Test-Case-Generation-at-Ksolves.jpg" /></noscript><div><h3 class="my-2 font-24 f-w-600 color-1C1C1C l-h-35 m-h-70 case-study-title " title="How Cursor AI is Revolutionizing Odoo Test Case Generation at Ksolves">How Cursor AI is Revolutionizing Odoo Test Case Generation at Ksolves</h3><span class="case-study-para"><p> In the fast-paced world of software development, testing is a critical step to ensure applications are reliable, scalable, and bug-free. For Odoo projects, testing plays an even more significant role…[…] </p></span><div class="btn-read-more mt-0"><a target="_blank" href="/blog/artificial-intelligence/revolutionize-odoo-test-case-generation-with-cursor-ai"><span class="f-w-500 font-16 color-E13D4B mt-4 p-0 box-shadow-none outline-none">Read More <svg class="ms-2 arrow-icon" width="16" height="10" viewBox="0 0 16 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 5L15 5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path><path d="M11 1L15 5L11 9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg></span></a></div></div></div></div></div><div class="btn rounded-1 f-w-500 overflow-hidden btn-primary text-white px-4 d-flex align-items-center justify-content-center btn-lg mt-md-5 mt-4 m-auto w-m-content"><a class="text-white" target="_blank" href="/blog/category/artificial-intelligence"><h5 class="m-0">Explore More <svg class="ms-2 arrow-icon" width="16" height="10" viewBox="0 0 16 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 5L15 5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path><path d="M11 1L15 5L11 9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg></h5></a></div></div></section>
+   <!-- Case Study Start-->
+  <section class="clients-case-study s-case-slider eventcase-study bg-white" id="Success-stories">
+    <div class="container">
+      <div class="ks-header-panel text-md-start text-start mb-3 mb-xl-0">
+        <div class="ind-serve-title text-md-start text-start lh-base color-212121 font-sm-32 mb-md-4 mb-3">
+          Case Studies        </div>
+        <div class="ind-serve-sub text-md-start text-start color-323232 mb-4 pb-md-3 f-w-sm-400">
+          Our work quality is reflected in our customer success!        </div>
+      </div>
+
+              <div class="owl-carousel summit-innovation-case-study owl-theme owl-loaded">
+                        
+                        
+                        
+                  <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-1104px, 0px, 0px); transition: all; width: 3312px;"><div class="owl-item cloned" style="width: 343px; margin-right: 25px;"><div class="item">
+                <a target="_blank" class="col-lg-4 col-md-6 mb-lg-0 mb-4" href="https://www.ksolves.com/case-studies/aws-cloud-services/ml-powered-predictive-analytics-healthcare">
+                  <div class="client-case-card bgcard text-start">
+                                          <img alt="How Did Ksolves Revolutionize Healthcare with ML-Powered Predictive Analytics Solution" class="client-case w-100" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20425%20293'%3E%3C/svg%3E" width="425" height="293" data-lazy-src="https://www.ksolves.com/wp-content/uploads/2025/02/ML-Model-for-Predictive-Analytics-in-Healthcare-Industry.png"><noscript><img
+                        alt="How Did Ksolves Revolutionize Healthcare with ML-Powered Predictive Analytics Solution"
+                        loading="lazy"
+                        class="client-case w-100"
+                        src="https://www.ksolves.com/wp-content/uploads/2025/02/ML-Model-for-Predictive-Analytics-in-Healthcare-Industry.png"
+                        width="425"
+                        height="293"
+                        
+                      /></noscript>
+                                        <div class="client-case-card-details">
+                      <h3 class="summit-cstitle" title="How Did Ksolves Revolutionize Healthcare with ML-Powered Predictive Analytics Solution">
+                        How Did Ksolves Revolutionize Healthcare with ML-Powered Predictive Analytics Solution                      </h3>
+                      <div class="btn-read-more mt-20 text-left">
+                        <span class="f-w-500 font-16 color-414040 p-0 box-shadow-none outline-none">
+                          See More
+                          <span class="ms-2 arrow-icon sales-arrow custom-arrow stroke-red"></span>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                </a>
+              </div></div><div class="owl-item cloned" style="width: 343px; margin-right: 25px;"><div class="item">
+                <a target="_blank" class="col-lg-4 col-md-6 mb-lg-0 mb-4" href="https://www.ksolves.com/case-studies/apache-kafka/real-time-data-streaming-financial-analytics">
+                  <div class="client-case-card bgcard text-start">
+                                          <img alt="How Real-Time Data Streaming Improved Financial Analytics &amp; Security" class="client-case w-100" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20425%20293'%3E%3C/svg%3E" width="425" height="293" data-lazy-src="https://www.ksolves.com/wp-content/uploads/2025/02/Data-Replication-Between-RDBMS-Using-Kafka.png"><noscript><img
+                        alt="How Real-Time Data Streaming Improved Financial Analytics &amp; Security"
+                        loading="lazy"
+                        class="client-case w-100"
+                        src="https://www.ksolves.com/wp-content/uploads/2025/02/Data-Replication-Between-RDBMS-Using-Kafka.png"
+                        width="425"
+                        height="293"
+                        
+                      /></noscript>
+                                        <div class="client-case-card-details">
+                      <h3 class="summit-cstitle" title="How Real-Time Data Streaming Improved Financial Analytics &amp; Security">
+                        How Real-Time Data Streaming Improved Financial Analytics &amp; Security                      </h3>
+                      <div class="btn-read-more mt-20 text-left">
+                        <span class="f-w-500 font-16 color-414040 p-0 box-shadow-none outline-none">
+                          See More
+                          <span class="ms-2 arrow-icon sales-arrow custom-arrow stroke-red"></span>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                </a>
+              </div></div><div class="owl-item cloned" style="width: 343px; margin-right: 25px;"><div class="item">
+                <a target="_blank" class="col-lg-4 col-md-6 mb-lg-0 mb-4" href="https://www.ksolves.com/case-studies/ai-ml/ai-loan-risk-assessment">
+                  <div class="client-case-card bgcard text-start">
+                                          <img alt="How Ksolves AI-Powered Loan Risk Assessment is Revolutionizing Credit Decisions" class="client-case w-100" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20425%20293'%3E%3C/svg%3E" width="425" height="293" data-lazy-src="https://www.ksolves.com/wp-content/uploads/2025/02/AI-Powered-Loan-Risk-Assessment_-Revolutionizing-Credit-Decisions-for-Small-Business-Financing.png"><noscript><img
+                        alt="How Ksolves AI-Powered Loan Risk Assessment is Revolutionizing Credit Decisions"
+                        loading="lazy"
+                        class="client-case w-100"
+                        src="https://www.ksolves.com/wp-content/uploads/2025/02/AI-Powered-Loan-Risk-Assessment_-Revolutionizing-Credit-Decisions-for-Small-Business-Financing.png"
+                        width="425"
+                        height="293"
+                        
+                      /></noscript>
+                                        <div class="client-case-card-details">
+                      <h3 class="summit-cstitle" title="How Ksolves AI-Powered Loan Risk Assessment is Revolutionizing Credit Decisions">
+                        How Ksolves AI-Powered Loan Risk Assessment is Revolutionizing Credit Decisions                      </h3>
+                      <div class="btn-read-more mt-20 text-left">
+                        <span class="f-w-500 font-16 color-414040 p-0 box-shadow-none outline-none">
+                          See More
+                          <span class="ms-2 arrow-icon sales-arrow custom-arrow stroke-red"></span>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                </a>
+              </div></div><div class="owl-item active" style="width: 343px; margin-right: 25px;"><div class="item">
+                <a target="_blank" class="col-lg-4 col-md-6 mb-lg-0 mb-4" href="https://www.ksolves.com/case-studies/aws-cloud-services/ml-powered-predictive-analytics-healthcare">
+                  <div class="client-case-card bgcard text-start">
+                                          <img alt="How Did Ksolves Revolutionize Healthcare with ML-Powered Predictive Analytics Solution" class="client-case w-100" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20425%20293'%3E%3C/svg%3E" width="425" height="293" data-lazy-src="https://www.ksolves.com/wp-content/uploads/2025/02/ML-Model-for-Predictive-Analytics-in-Healthcare-Industry.png"><noscript><img
+                        alt="How Did Ksolves Revolutionize Healthcare with ML-Powered Predictive Analytics Solution"
+                        loading="lazy"
+                        class="client-case w-100"
+                        src="https://www.ksolves.com/wp-content/uploads/2025/02/ML-Model-for-Predictive-Analytics-in-Healthcare-Industry.png"
+                        width="425"
+                        height="293"
+                        
+                      /></noscript>
+                                        <div class="client-case-card-details">
+                      <h3 class="summit-cstitle" title="How Did Ksolves Revolutionize Healthcare with ML-Powered Predictive Analytics Solution">
+                        How Did Ksolves Revolutionize Healthcare with ML-Powered Predictive Analytics Solution                      </h3>
+                      <div class="btn-read-more mt-20 text-left">
+                        <span class="f-w-500 font-16 color-414040 p-0 box-shadow-none outline-none">
+                          See More
+                          <span class="ms-2 arrow-icon sales-arrow custom-arrow stroke-red"></span>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                </a>
+              </div></div><div class="owl-item active" style="width: 343px; margin-right: 25px;"><div class="item">
+                <a target="_blank" class="col-lg-4 col-md-6 mb-lg-0 mb-4" href="https://www.ksolves.com/case-studies/apache-kafka/real-time-data-streaming-financial-analytics">
+                  <div class="client-case-card bgcard text-start">
+                                          <img alt="How Real-Time Data Streaming Improved Financial Analytics &amp; Security" class="client-case w-100" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20425%20293'%3E%3C/svg%3E" width="425" height="293" data-lazy-src="https://www.ksolves.com/wp-content/uploads/2025/02/Data-Replication-Between-RDBMS-Using-Kafka.png"><noscript><img
+                        alt="How Real-Time Data Streaming Improved Financial Analytics &amp; Security"
+                        loading="lazy"
+                        class="client-case w-100"
+                        src="https://www.ksolves.com/wp-content/uploads/2025/02/Data-Replication-Between-RDBMS-Using-Kafka.png"
+                        width="425"
+                        height="293"
+                        
+                      /></noscript>
+                                        <div class="client-case-card-details">
+                      <h3 class="summit-cstitle" title="How Real-Time Data Streaming Improved Financial Analytics &amp; Security">
+                        How Real-Time Data Streaming Improved Financial Analytics &amp; Security                      </h3>
+                      <div class="btn-read-more mt-20 text-left">
+                        <span class="f-w-500 font-16 color-414040 p-0 box-shadow-none outline-none">
+                          See More
+                          <span class="ms-2 arrow-icon sales-arrow custom-arrow stroke-red"></span>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                </a>
+              </div></div><div class="owl-item active" style="width: 343px; margin-right: 25px;"><div class="item">
+                <a target="_blank" class="col-lg-4 col-md-6 mb-lg-0 mb-4" href="https://www.ksolves.com/case-studies/ai-ml/ai-loan-risk-assessment">
+                  <div class="client-case-card bgcard text-start">
+                                          <img alt="How Ksolves AI-Powered Loan Risk Assessment is Revolutionizing Credit Decisions" class="client-case w-100" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20425%20293'%3E%3C/svg%3E" width="425" height="293" data-lazy-src="https://www.ksolves.com/wp-content/uploads/2025/02/AI-Powered-Loan-Risk-Assessment_-Revolutionizing-Credit-Decisions-for-Small-Business-Financing.png"><noscript><img
+                        alt="How Ksolves AI-Powered Loan Risk Assessment is Revolutionizing Credit Decisions"
+                        loading="lazy"
+                        class="client-case w-100"
+                        src="https://www.ksolves.com/wp-content/uploads/2025/02/AI-Powered-Loan-Risk-Assessment_-Revolutionizing-Credit-Decisions-for-Small-Business-Financing.png"
+                        width="425"
+                        height="293"
+                        
+                      /></noscript>
+                                        <div class="client-case-card-details">
+                      <h3 class="summit-cstitle" title="How Ksolves AI-Powered Loan Risk Assessment is Revolutionizing Credit Decisions">
+                        How Ksolves AI-Powered Loan Risk Assessment is Revolutionizing Credit Decisions                      </h3>
+                      <div class="btn-read-more mt-20 text-left">
+                        <span class="f-w-500 font-16 color-414040 p-0 box-shadow-none outline-none">
+                          See More
+                          <span class="ms-2 arrow-icon sales-arrow custom-arrow stroke-red"></span>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                </a>
+              </div></div><div class="owl-item cloned" style="width: 343px; margin-right: 25px;"><div class="item">
+                <a target="_blank" class="col-lg-4 col-md-6 mb-lg-0 mb-4" href="https://www.ksolves.com/case-studies/aws-cloud-services/ml-powered-predictive-analytics-healthcare">
+                  <div class="client-case-card bgcard text-start">
+                                          <img alt="How Did Ksolves Revolutionize Healthcare with ML-Powered Predictive Analytics Solution" class="client-case w-100" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20425%20293'%3E%3C/svg%3E" width="425" height="293" data-lazy-src="https://www.ksolves.com/wp-content/uploads/2025/02/ML-Model-for-Predictive-Analytics-in-Healthcare-Industry.png"><noscript><img
+                        alt="How Did Ksolves Revolutionize Healthcare with ML-Powered Predictive Analytics Solution"
+                        loading="lazy"
+                        class="client-case w-100"
+                        src="https://www.ksolves.com/wp-content/uploads/2025/02/ML-Model-for-Predictive-Analytics-in-Healthcare-Industry.png"
+                        width="425"
+                        height="293"
+                        
+                      /></noscript>
+                                        <div class="client-case-card-details">
+                      <h3 class="summit-cstitle" title="How Did Ksolves Revolutionize Healthcare with ML-Powered Predictive Analytics Solution">
+                        How Did Ksolves Revolutionize Healthcare with ML-Powered Predictive Analytics Solution                      </h3>
+                      <div class="btn-read-more mt-20 text-left">
+                        <span class="f-w-500 font-16 color-414040 p-0 box-shadow-none outline-none">
+                          See More
+                          <span class="ms-2 arrow-icon sales-arrow custom-arrow stroke-red"></span>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                </a>
+              </div></div><div class="owl-item cloned" style="width: 343px; margin-right: 25px;"><div class="item">
+                <a target="_blank" class="col-lg-4 col-md-6 mb-lg-0 mb-4" href="https://www.ksolves.com/case-studies/apache-kafka/real-time-data-streaming-financial-analytics">
+                  <div class="client-case-card bgcard text-start">
+                                          <img alt="How Real-Time Data Streaming Improved Financial Analytics &amp; Security" class="client-case w-100" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20425%20293'%3E%3C/svg%3E" width="425" height="293" data-lazy-src="https://www.ksolves.com/wp-content/uploads/2025/02/Data-Replication-Between-RDBMS-Using-Kafka.png"><noscript><img
+                        alt="How Real-Time Data Streaming Improved Financial Analytics &amp; Security"
+                        loading="lazy"
+                        class="client-case w-100"
+                        src="https://www.ksolves.com/wp-content/uploads/2025/02/Data-Replication-Between-RDBMS-Using-Kafka.png"
+                        width="425"
+                        height="293"
+                        
+                      /></noscript>
+                                        <div class="client-case-card-details">
+                      <h3 class="summit-cstitle" title="How Real-Time Data Streaming Improved Financial Analytics &amp; Security">
+                        How Real-Time Data Streaming Improved Financial Analytics &amp; Security                      </h3>
+                      <div class="btn-read-more mt-20 text-left">
+                        <span class="f-w-500 font-16 color-414040 p-0 box-shadow-none outline-none">
+                          See More
+                          <span class="ms-2 arrow-icon sales-arrow custom-arrow stroke-red"></span>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                </a>
+              </div></div><div class="owl-item cloned" style="width: 343px; margin-right: 25px;"><div class="item">
+                <a target="_blank" class="col-lg-4 col-md-6 mb-lg-0 mb-4" href="https://www.ksolves.com/case-studies/ai-ml/ai-loan-risk-assessment">
+                  <div class="client-case-card bgcard text-start">
+                                          <img alt="How Ksolves AI-Powered Loan Risk Assessment is Revolutionizing Credit Decisions" class="client-case w-100" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20425%20293'%3E%3C/svg%3E" width="425" height="293" data-lazy-src="https://www.ksolves.com/wp-content/uploads/2025/02/AI-Powered-Loan-Risk-Assessment_-Revolutionizing-Credit-Decisions-for-Small-Business-Financing.png"><noscript><img
+                        alt="How Ksolves AI-Powered Loan Risk Assessment is Revolutionizing Credit Decisions"
+                        loading="lazy"
+                        class="client-case w-100"
+                        src="https://www.ksolves.com/wp-content/uploads/2025/02/AI-Powered-Loan-Risk-Assessment_-Revolutionizing-Credit-Decisions-for-Small-Business-Financing.png"
+                        width="425"
+                        height="293"
+                        
+                      /></noscript>
+                                        <div class="client-case-card-details">
+                      <h3 class="summit-cstitle" title="How Ksolves AI-Powered Loan Risk Assessment is Revolutionizing Credit Decisions">
+                        How Ksolves AI-Powered Loan Risk Assessment is Revolutionizing Credit Decisions                      </h3>
+                      <div class="btn-read-more mt-20 text-left">
+                        <span class="f-w-500 font-16 color-414040 p-0 box-shadow-none outline-none">
+                          See More
+                          <span class="ms-2 arrow-icon sales-arrow custom-arrow stroke-red"></span>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                </a>
+              </div></div></div></div><div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><div class="nav-btn prev-slide"></div></button><button type="button" role="presentation" class="owl-next"><div class="nav-btn next-slide"></div></button></div><div class="owl-dots disabled"><button role="button" class="owl-dot active"><span></span></button></div></div>
+                  </div>
+  </section>
+
+
+<!-- Case Study Stop -->
+ 
+   <section class="ks-expert-partner py-lg-5 py-4 bg-light">
+      <div class="container px-0">
+         <div class="text-center">
+            <p class="mb-5 f-w-600 font-40 font-sm-32 color-1C1C1C">Looking for a Professional Predictive Analytics
+               Company for your <br class="d-none d-xl-block">Project? Choose Ksolves As Your Expert Partner.
+            </p>
+            <div class="">
+               <button onclick="openmodal(this.id)" class="btn rounded-1 f-w-500 overflow-hidden btn-primary text-white btn-lg px-4 d-inline-flex align-items-center" id="talk_to_us_today">
+                  Talk
+                  To Us Today
+                  <svg class="ms-2 arrow-icon" width="16" height="10" viewBox="0 0 16 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+                     <path d="M1 5L15 5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                     <path d="M11 1L15 5L11 9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                  </svg>
+               </button>
+            </div>
+         </div>
+      </div>
+   </section>
+</div>
+
+
+  <!-- Temporary use, needs to be removed -->
+   <script data-minify="1" data-rocket-defer="" defer="" fetchpriority="high" src="https://www.ksolves.com/wp-content/cache/min/1/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js?ver=1763539076" data-rocket-status="executed"></script>
+
+
+    <section class="p-area-64 footer-new-set">
+    <div class="container">
+      <div class="footer-set-icons d-flex align-items-center justify-content-center g-3 flex-lg-nowrap flex-wrap">
+         <div class="img-set">
+            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20162%20151'%3E%3C/svg%3E" width="162" height="151" alt="img" class="w-100 h-auto" data-lazy-src="/wp-content/uploads/2025/05/grating.svg"><noscript><img src="/wp-content/uploads/2025/05/grating.svg" width="162" height="151" alt="img" class="w-100 h-auto"></noscript>
+         </div>
+         <div class="img-set">
+            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20162%20151'%3E%3C/svg%3E" width="162" height="151" alt="img" class="w-100 h-auto" data-lazy-src="/wp-content/uploads/2025/04/footer-clutch.svg"><noscript><img src="/wp-content/uploads/2025/04/footer-clutch.svg" width="162" height="151" alt="img" class="w-100 h-auto"></noscript>
+         </div>
+         <div class="img-set">
+            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20162%20151'%3E%3C/svg%3E" width="162" height="151" alt="img" class="w-100 h-auto" data-lazy-src="/wp-content/uploads/2025/04/footer-appexchange.svg"><noscript><img src="/wp-content/uploads/2025/04/footer-appexchange.svg" width="162" height="151" alt="img" class="w-100 h-auto"></noscript>
+         </div>
+         <div class="img-set">
+            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20162%20151'%3E%3C/svg%3E" width="162" height="151" alt="img" class="w-100 h-auto" data-lazy-src="/wp-content/uploads/2025/04/footer-g2.svg"><noscript><img src="/wp-content/uploads/2025/04/footer-g2.svg" width="162" height="151" alt="img" class="w-100 h-auto"></noscript>
+         </div>
+         <div class="img-set">
+            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20162%20151'%3E%3C/svg%3E" width="162" height="151" alt="img" class="w-100 h-auto" data-lazy-src="/wp-content/uploads/2025/04/footer-sp.svg"><noscript><img src="/wp-content/uploads/2025/04/footer-sp.svg" width="162" height="151" alt="img" class="w-100 h-auto"></noscript>
+         </div>
+         <div class="img-set">
+            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20162%20151'%3E%3C/svg%3E" width="162" height="151" alt="img" class="w-100 h-auto" data-lazy-src="/wp-content/uploads/2025/04/footer-aust.svg"><noscript><img src="/wp-content/uploads/2025/04/footer-aust.svg" width="162" height="151" alt="img" class="w-100 h-auto"></noscript>
+         </div>
+      </div>
+    </div>
+  </section>
+        </main>
